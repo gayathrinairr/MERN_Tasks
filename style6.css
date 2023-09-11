@@ -1,0 +1,76 @@
+#main{
+    position: absolute;
+    width: 550px;
+    height: 500px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    justify-content: center;
+}
+
+#picture{
+    height: 175px;
+    width: 175px;
+    background-color: rgb(99, 151, 22);
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-left: 192px;
+    background-image: url("picture.png");
+    background-size: cover;
+}
+
+.inputP{
+    width: 450px;
+    height: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.textP{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#placeholders{
+    margin-left: 30px;
+    margin-top: 5px;
+}
+
+#login{
+    width: 457px;
+    height: 30px;
+    background-color: rgb(56, 155, 56);
+    color: white;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#checkboxP{
+    margin-top: 13px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#footerDiv{
+    margin-top: 20px;
+    width: 457px;
+    height: 55px;
+    background-color: rgb(240, 240, 240);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    align-items: center;
+}
+
+#cancel{
+    background-color: rgb(220, 48, 48);
+    color: white;
+    height: 30px;
+    border-radius: 15%;
+}
+
+#forgotPass{
+    margin-left: 250px;
+    color: black;
+}

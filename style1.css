@@ -1,0 +1,90 @@
+#top{
+    background-color:rgb(123, 199, 193);
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    border-right: 2px solid black;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.round-border{
+    border: 1px solid black;
+    border-radius: 15px;
+    width: 500px;
+}
+
+.bottom{
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+
+#shape1{
+    height: 50px;
+    width: 100px;
+    border: 4px solid rgb(160, 215, 72);
+    border-radius: 6px;
+}
+
+#shape2{
+    height: 50px;
+    width: 100px;
+    border: 4px solid rgb(160, 215, 72);
+    border-radius: 9px; 
+}
+
+#shape3{
+    height: 50px;
+    width: 100px;
+    border: 4px solid rgb(160, 215, 72);
+    border-radius: 13px; 
+}
+
+#shape4{
+    height: 50px;
+    width: 100px;
+    border: 4px solid rgb(160, 215, 72);
+    border-radius: 9px; 
+}
+
+#shape5{
+    height: 50px;
+    width: 100px;
+    border: 4px solid rgb(160, 215, 72);
+    border-radius: 4px; 
+}
+
+#shape6{
+    height: 50px;
+    width: 100px;
+    border: 4px solid rgb(160, 215, 72);
+    border-radius: 14px; 
+}
+
+#shape7{
+    height: 50px;
+    width: 100px;
+    border: 4px solid rgb(160, 215, 72);
+    border-radius: 50%; 
+}
+
+#shape8{
+    height: 50px;
+    width: 100px;
+    border: 4px solid rgb(160, 215, 72);
+    border-radius: 7px; 
+}
+
+#shape9{
+    height: 50px;
+    width: 100px;
+    border: 4px solid rgb(160, 215, 72);
+    border-top-left-radius: 5px; 
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 11px;
+}

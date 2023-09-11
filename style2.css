@@ -1,0 +1,108 @@
+.main{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+.main1{
+    height: 300px;
+    width: 300px;
+    background-color: white;
+    border: 2px solid black;
+}
+
+#vertical{
+    position: relative;
+    margin: 20px 20px 20px 20px;
+    height: 250px;
+    width: 250px;
+    background-color: rgb(176, 241, 255);
+}
+
+#home1{
+    position: relative;
+    margin-top: 10px;
+    height: 50px;
+    width: 250px;
+    background-color: rgb(236, 168, 40);
+}
+
+#homeText1{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 40px;
+}
+
+.anchor1{
+    text-decoration: none;
+    font-size: larger;
+    font-weight: 300;
+    display: flex;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+
+
+.main2{
+    height: 75px;
+    width: 570px;
+    background-color: white;
+    border: 2px solid black;
+}
+
+#horizontal{
+    width: 550px;
+    height: 50px;
+    position: relative;
+    margin: 10px 10px 10px 10px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(180, 177, 177);
+}
+
+.anchor2{
+    text-decoration: none;
+    font-size: larger;
+    font-weight: 300;
+}
+
+#home2{
+    position: relative;
+    height: 50px;
+    width: 110px;
+    background-color: rgb(81, 77, 77); 
+    border-right: 2px solid blue;
+}
+
+#homeText2{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 40px;
+    text-decoration: none;
+}
+
+#java{
+    width: 110px;
+    height: 50px;
+    border-right: 2px solid blue;
+}
+
+#css{
+    width: 110px;
+    height: 50px;
+    border-right: 2px solid blue;
+}
+
+#html{
+    width: 110px;
+    height: 50px;
+    border-right: 2px solid blue;
+}
+
+#bootstrap{
+    width: 110px;
+    height: 50px;
+    border-right: 2px solid blue;
+}
+
